@@ -7,7 +7,7 @@ body {
 
 .header {
     background-color: rgb(248, 232, 217);
-    background-image: url('/Food-Website/images/Untitled.jpeg'); /* Placeholder image path */
+    background-image: url('images/Untitled.jpeg'); /* Placeholder image path */
     background-size: cover;
     background-position: center;
     color: white;
