@@ -7,7 +7,7 @@ body {
 
 .header {
     background-color: rgb(248, 232, 217);
-    background-image: url('/images/Untitled.jpeg'); 
+    background-image: url('images/Untitled.jpeg'); 
     background-size: cover;
     background-position: center;
     color: white;
