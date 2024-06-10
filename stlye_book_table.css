@@ -7,7 +7,7 @@ body {
 
 .header {
     background-color: rgb(248, 232, 217);
-    background-image: url('/images/Untitled.jpeg'); /* Placeholder image path */
+    background-image: url('/images/Untitled.jpeg'); 
     background-size: cover;
     background-position: center;
     color: white;
@@ -23,7 +23,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+    background: rgba(0, 0, 0, 0.5);
 }
 
 .header-content {
@@ -46,17 +46,17 @@ body {
     padding: 10px 20px;
     font-size: 1em;
     color: white;
-    background-color: #ff6347; /* Tomato color */
+    background-color: #ff6347;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.3s;
-    height: 50px; /* Set height */
-    width: 200px; /* Set width */
+    height: 50px;
+    width: 200px; 
 }
 
 .book-btn:hover {
-    background-color: #ff4500; /* Darker tomato color */
+    background-color: #ff4500;
     transform: scale(1.05);
 }
 
